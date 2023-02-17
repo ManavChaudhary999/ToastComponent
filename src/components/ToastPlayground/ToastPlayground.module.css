@@ -9,14 +9,14 @@
   display: flex;
   align-items: flex-end;
   margin-bottom: 64px;
-  min-height: 300px;
+  min-height: 300px; 
 }
 
 .wrapper header h1 {
   position: relative;
+  padding-bottom: 32px;
   font-size: 4.25rem;
   line-height: 1.1;
-  padding-bottom: 32px;
   color: white;
   /* prettier-ignore */
   text-shadow:
